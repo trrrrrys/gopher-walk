@@ -1,4 +1,4 @@
-module github.com/trrrrry/gopher-walk
+module github.com/trrrrrys/gopher-walk
 
 go 1.18
 
